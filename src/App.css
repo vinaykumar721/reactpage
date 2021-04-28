@@ -1,0 +1,69 @@
+td{
+  background-color:#fff;
+  height:40px;
+  width:40px;
+  border-radius:50%;
+  border:1px solid #000;
+  color:#fff;
+}
+
+
+table{
+  border:solid 3px   #000;
+  margin:20px;
+  background-color: aqua;
+}
+/* .outline{
+margin-left: 300px;
+} */
+
+/* .turn{
+background: lightblue;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+
+} */
+#player{
+border-radius:50% ;
+color:#000;
+float:right;
+}
+
+.selection{
+float:right;
+margin-bottom:100px;
+margin-right: 100px;
+}
+.in1{
+padding: 10px;
+}
+.in2{
+padding: 10px;
+}
+
+.green {
+height: 30px;
+width: 30px;
+background-color:green;
+border-radius: 50%;
+display: inline-block;
+}
+.red {
+height: 30px;
+width: 30px;
+background-color:red;
+border-radius: 50%;
+display: inline-block;
+}
+
+.input1{
+width:150px;
+height:30px;
+/* padding-right:10px; */
+margin-right: 20px;
+}
+
+/* .page{
+background-color: darkgrey;
+} */
